@@ -86,4 +86,4 @@ An example for N = 5:
     </tbody>
 </table>
 
-Level A: `Gate-level` and `RTL simulations` are **completely correct** given the clock period of **10ns**, with the total simulation cycle smaller than 600000 cycles and Area smaller than 10000 (um^2) after synthesis.
+Level A: `Gate-level` and `RTL simulations` are **completely correct** given the clock period of **10ns**, with total simulation cycle smaller than 600000 cycles and area smaller than 10000 um^2 after synthesis.
