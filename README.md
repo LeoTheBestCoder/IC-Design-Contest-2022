@@ -88,4 +88,4 @@ The total job cost can be calculated as 54+97+34+12+98.
     </tbody>
 </table>
 
-Level A: `Gate-level` and `RTL simulations` are **<u>completely correct</u>** given the clock period of **10ns**, with total simulation cycle smaller than 600000 cycles and area smaller than 10000 um^2 after synthesis.
+Level A: `Gate-level` and `RTL simulations` are **completely correct** given the clock period of **10ns**, with total simulation cycle smaller than 600000 cycles and area smaller than 10000 um^2 after synthesis.
